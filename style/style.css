@@ -46,7 +46,7 @@ main{
 }
 
 .mensaje-background{
-  background-image: url("/img/Muñeco.svg");
+  background-image: url("img/Muñeco.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -117,54 +117,4 @@ main{
   margin-left: 200px;
   text-align: center;
   width: 370px;
-}
-
-/* body{
-  background-color: #EFF1FA;
-  font-family: 'Inter', sans-serif;
-}
-
-.contenedor_texto{
-  display: flex;
-  justify-content: space-around;
-}
-
-.texto-encriptado{
-  font-size: 32px;
-  font-weight: 400;
-  color: #0A3871;
-  border: none;
-  background-color: transparent;
-  padding: 30%;
-}
-
-.texto_descripcion{
-  padding-left: 30%;
-}
-
-.contenedor_btn{
-  padding-left: 21%;
-}
-.btn_encriptar{
-  border-radius: 20px;
-  padding: 24px;
-  width: 300px;
-  background-color: #0A3871;
-  color:#EFF1FA;
-  border: none;
-  cursor: pointer;
-}
-
-.btn_desencriptar{
-  border-radius: 20px;
-  padding: 24px;
-  width: 300px;
-  background-color: #D8DFE8;
-  color:#0A3871;
-  border: 1px solid #0A3871;
-  cursor: pointer;
-
-}
-.contenedor_muneco{
-  background-color: #FFFFFF;
 }
